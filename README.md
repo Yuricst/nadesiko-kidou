@@ -1,5 +1,6 @@
-# nadesiko-kidou
-Orbital mechanics with nadesiko language
+# nadesiko-kidou ー なでしこ軌道 ー
+
+Orbital mechanics with nadesiko language. Because why not. 
 
 ### Implemented functions
 Runge-Kutta 4th order integration.
