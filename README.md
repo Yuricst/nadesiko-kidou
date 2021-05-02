@@ -2,8 +2,7 @@
 
 Orbital mechanics with nadesiko language. Because why not. 
 
-### Implemented functions
-Runge-Kutta 4th order integration.
+## Solving initial value problem（初期値問題の解法）
 
 Define the equations of motion as
 
