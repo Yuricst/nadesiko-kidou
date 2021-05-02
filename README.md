@@ -2,6 +2,10 @@
 
 Orbital mechanics with nadesiko language. Because why not.
 
+<p align="center">
+  <img src="./trajplot.png" width="350" title="hover text">
+</p>
+
 #### 環境
 ```bash
 > cnako3 -v
