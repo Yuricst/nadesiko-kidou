@@ -1,8 +1,24 @@
 # nadesiko-kidou ー なでしこ軌道 ー
 
-Orbital mechanics with nadesiko language. Because why not. 
+Orbital mechanics with nadesiko language. Because why not.
+
+#### 環境
+```bash
+> cnako3 -v
+3.2.5
+```
 
 ## Solving initial value problem（初期値問題の解法）
+
+ファイル：「twobody_problem.nako3」
+
+#### 実行
+
+```bash
+> cnako3 ./twobody_problem.nako3
+```
+
+#### 解説
 
 Define the equations of motion as
 
