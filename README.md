@@ -10,7 +10,7 @@ Orbital mechanics with nadesiko language. Because why not.
 
 ## Solving initial value problem（初期値問題の解法）
 
-ファイル：「twobody_problem.nako3」
+ファイル：「main_twobody.nako3」
 
 #### 実行
 
