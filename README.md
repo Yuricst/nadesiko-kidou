@@ -19,7 +19,7 @@ Orbital mechanics with nadesiko language. Because why not.
 #### 実行
 
 ```bash
-> cnako3 ./twobody_problem.nako3
+> cnako3 ./main_twobody_problem.nako3
 ```
 
 #### 解説
